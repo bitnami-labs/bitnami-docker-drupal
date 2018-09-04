@@ -10,7 +10,7 @@ Bitnami maintained dockerfile images are smoke tested in a docker compose deploy
 
 Application: **Drupal 8.5.6**
 
-Dockerfile: [`8-rhel-7`, `8.5.6-rhel-7-r0` (8/rhel-7/Dockerfile)](https://github.com/bitnami-labs/bitnami-docker-drupal/blob/8.5.6-rhel-7-r0/8/rhel-7/Dockerfile) 
+Dockerfile: [`8-php5-rhel-7`, `8.5.6-php5-rhel-7-r0`](./Dockerfile) 
 
 Date: **2018-09-02 11:34:23**
 
