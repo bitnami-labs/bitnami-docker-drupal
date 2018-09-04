@@ -10,7 +10,7 @@ Bitnami maintained dockerfile images are smoke tested in a docker compose deploy
 
 Application: **Drupal 8.5.6**
 
-Dockerfile: [`8-debian-9`, `8.5.6-debian-9-r21`, `8`, `8.5.6`, `8.5.6-r21`, `latest` (8/debian-9/Dockerfile)](./Dockerfile) 
+Dockerfile: [`8-debian-9`, `8.5.6-debian-9-r21`, `8`, `8.5.6`, `8.5.6-r21`, `latest`](./Dockerfile) 
 
 Date: **2018-09-02 11:34:23**
 
