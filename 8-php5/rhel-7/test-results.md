@@ -2,9 +2,9 @@
 
 ## Smoke testing
 
-Smoke tests are a subset of tests covering important functionality of an application, used to aid assessment if its main functions appear to work correctly. They are not a replacement of a properly tested application, which should be done by the upstreaam project.
+Smoke tests are a subset of tests covering important functionality of an application, used to aid assessment if its main functions appear to work correctly. They are not a replacement of a fully tested application, which should be done by the upstream project.
 
-Bitnami maintained dockerfile images are smoke tested in a docker compose deployment to ensure they work properly.
+Bitnami maintained dockerfile images are smoke tested in a docker compose deployment to ensure important functions work properly.
 
 ## Results
 
